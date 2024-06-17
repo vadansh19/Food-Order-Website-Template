@@ -1,5 +1,5 @@
-# Project03
-Food Order Website Template
+# Food Order Website Template
+
 <br>
 Developed a Food Order Website Template using HTML, CSS, Bootstrap.
 <br>
